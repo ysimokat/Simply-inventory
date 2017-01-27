@@ -1,0 +1,18 @@
+Project 2 description
+======================
+
+1. Input: prompt the user to enter input from the keyboard
+2. Output: print outputt to the screen
+
+#----------------------------------------------------------
+stepwise refinement
+#----------------------------------------------------------
+
+1. college 1-7,ask user input number of four sizes
+2. store inventory data to an array
+3. calculate row sum
+4. calculate col sum
+5. calculate grand total
+6. print output by a few seperate functions
+
+
